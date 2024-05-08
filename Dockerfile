@@ -6,4 +6,4 @@ ADD ./*.json /app/
 
 EXPOSE 8080
 
-ENTRYPOINT java -jar planning-app-0.1.1.jar
+ENTRYPOINT java -jar planning-app-0.1.1.jar --server.port=8080
