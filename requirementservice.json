@@ -1,0 +1,824 @@
+[ {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476563361,
+      "createId" : "admin",
+      "updateTime" : 1617476563361,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Cultural Diversity",
+    "descr" : {
+      "plain" : "Cultural Diversity",
+      "formatted" : "Cultural Diversity"
+    },
+    "id" : "cd",
+    "parentRequirementId" : null,
+    "shortTitle" : "Cultural Diversity",
+    "longTitle" : "Cultural Diversity",
+    "code" : "CD",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "1",
+      "createTime" : 1625589292207,
+      "createId" : "gribauda",
+      "updateTime" : 1625589344479,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study available on Lynch website",
+      "formatted" : "<p>Program of Study available on Lynch website</p>"
+    },
+    "id" : "39c1befe-2843-4624-955c-65ef15430e6a",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625588757838,
+      "createId" : "gribauda",
+      "updateTime" : 1625588757838,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study forthcoming",
+      "formatted" : "<p>Program of Study forthcoming</p>"
+    },
+    "id" : "fd403cde-905a-4877-9300-763cf164f184",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "1",
+      "createTime" : 1617476568422,
+      "createId" : "admin",
+      "updateTime" : 1633382574875,
+      "updateId" : "adrien"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Arts",
+    "descr" : {
+      "plain" : "Arts",
+      "formatted" : "<p>Arts</p>"
+    },
+    "id" : "fa",
+    "parentRequirementId" : null,
+    "shortTitle" : "Arts",
+    "longTitle" : "Arts",
+    "code" : "ARTS",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568422,
+      "createId" : "admin",
+      "updateTime" : 1617476568422,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "History II",
+    "descr" : {
+      "plain" : "History II",
+      "formatted" : "History II"
+    },
+    "id" : "h2",
+    "parentRequirementId" : null,
+    "shortTitle" : "History II",
+    "longTitle" : "History II",
+    "code" : "H2",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568423,
+      "createId" : "admin",
+      "updateTime" : 1617476568423,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Literature",
+    "descr" : {
+      "plain" : "Literature",
+      "formatted" : "Literature"
+    },
+    "id" : "li",
+    "parentRequirementId" : null,
+    "shortTitle" : "Literature",
+    "longTitle" : "Literature",
+    "code" : "LI",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568424,
+      "createId" : "admin",
+      "updateTime" : 1617476568424,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Mathematics",
+    "descr" : {
+      "plain" : "Mathematics",
+      "formatted" : "Mathematics"
+    },
+    "id" : "ma",
+    "parentRequirementId" : null,
+    "shortTitle" : "Mathematics",
+    "longTitle" : "Mathematics",
+    "code" : "MA",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568425,
+      "createId" : "admin",
+      "updateTime" : 1617476568425,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "History I",
+    "descr" : {
+      "plain" : "History I",
+      "formatted" : "History I"
+    },
+    "id" : "mh",
+    "parentRequirementId" : null,
+    "shortTitle" : "History I",
+    "longTitle" : "History I",
+    "code" : "MH",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568426,
+      "createId" : "admin",
+      "updateTime" : 1617476568426,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Natural Science",
+    "descr" : {
+      "plain" : "Natural Science",
+      "formatted" : "Natural Science"
+    },
+    "id" : "ns",
+    "parentRequirementId" : null,
+    "shortTitle" : "Natural Science",
+    "longTitle" : "Natural Science",
+    "code" : "NS",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568427,
+      "createId" : "admin",
+      "updateTime" : 1617476568427,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Philosophy",
+    "descr" : {
+      "plain" : "Philosophy",
+      "formatted" : "Philosophy"
+    },
+    "id" : "ph",
+    "parentRequirementId" : null,
+    "shortTitle" : "Philosophy",
+    "longTitle" : "Philosophy",
+    "code" : "PH",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.elective", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568428,
+      "createId" : "admin",
+      "updateTime" : 1617476568428,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.elective",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Elective Requirements",
+    "descr" : {
+      "plain" : "Elective Requirements",
+      "formatted" : "Elective Requirements"
+    },
+    "id" : "requirement.elective",
+    "parentRequirementId" : null,
+    "shortTitle" : "Elective Requirements",
+    "longTitle" : "Elective Requirements",
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.elective",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.major", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568428,
+      "createId" : "admin",
+      "updateTime" : 1617476568428,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.major",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "General Graduate Requirement",
+    "descr" : {
+      "plain" : "General Graduate Requirement",
+      "formatted" : "General Graduate Requirement"
+    },
+    "id" : "requirement.general.graduate",
+    "parentRequirementId" : null,
+    "shortTitle" : "General Graduate Requirement",
+    "longTitle" : "General Graduate Requirement",
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.major",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.major", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568429,
+      "createId" : "admin",
+      "updateTime" : 1617476568429,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.major",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Major Requirements",
+    "descr" : {
+      "plain" : "Major Requirements",
+      "formatted" : "Major Requirements"
+    },
+    "id" : "requirement.major",
+    "parentRequirementId" : null,
+    "shortTitle" : "Major Requirements",
+    "longTitle" : "Major Requirements",
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.major",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.minor", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568430,
+      "createId" : "admin",
+      "updateTime" : 1617476568430,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.minor",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Minor Requirements",
+    "descr" : {
+      "plain" : "Minor Requirements",
+      "formatted" : "Minor Requirements"
+    },
+    "id" : "requirement.minor",
+    "parentRequirementId" : null,
+    "shortTitle" : "Minor Requirements",
+    "longTitle" : "Minor Requirements",
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.minor",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568431,
+      "createId" : "admin",
+      "updateTime" : 1617476568431,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Social Science",
+    "descr" : {
+      "plain" : "Social Science",
+      "formatted" : "Social Science"
+    },
+    "id" : "ss",
+    "parentRequirementId" : null,
+    "shortTitle" : "Social Science",
+    "longTitle" : "Social Science",
+    "code" : "SS",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568431,
+      "createId" : "admin",
+      "updateTime" : 1617476568431,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Theology",
+    "descr" : {
+      "plain" : "Theology",
+      "formatted" : "Theology"
+    },
+    "id" : "th",
+    "parentRequirementId" : null,
+    "shortTitle" : "Theology",
+    "longTitle" : "Theology",
+    "code" : "TH",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.core", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1617476568432,
+      "createId" : "admin",
+      "updateTime" : 1617476568432,
+      "updateId" : "admin"
+    },
+    "typeKey" : "kuali.requirement.type.core",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : "Writing",
+    "descr" : {
+      "plain" : "Writing",
+      "formatted" : "Writing"
+    },
+    "id" : "wr",
+    "parentRequirementId" : null,
+    "shortTitle" : "Writing",
+    "longTitle" : "Writing",
+    "code" : "WR",
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.core",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625589836653,
+      "createId" : "gribauda",
+      "updateTime" : 1625589836653,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study available on Lynch website",
+      "formatted" : "<p>Program of Study available on Lynch website</p>"
+    },
+    "id" : "7b58668a-1698-400e-bc2c-c19b3eba7f90",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "1",
+      "createTime" : 1625589596845,
+      "createId" : "gribauda",
+      "updateTime" : 1625589625736,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study available on Lynch website",
+      "formatted" : "<p>Program of Study available on Lynch website</p>"
+    },
+    "id" : "1b867b69-5c57-49e6-be67-c9929daa0f28",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "2",
+      "createTime" : 1625587295024,
+      "createId" : "gribauda",
+      "updateTime" : 1625588296010,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : null,
+    "id" : "90ed11b7-3c48-469b-bf60-d3fcd43b9ef4",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625245476429,
+      "createId" : "gribauda",
+      "updateTime" : 1625245476429,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "List of courses are forthcoming.",
+      "formatted" : "<p>List of courses are forthcoming.</p>"
+    },
+    "id" : "42ee88ad-de4f-47ae-88e1-71723534b479",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "1",
+      "createTime" : 1625588887594,
+      "createId" : "gribauda",
+      "updateTime" : 1625588937690,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study forthcoming",
+      "formatted" : "<p>Program of Study forthcoming</p>"
+    },
+    "id" : "c269297a-f071-47b0-b142-2b531b1a65a9",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625245113737,
+      "createId" : "gribauda",
+      "updateTime" : 1625245113737,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "List of courses will be forthcoming.",
+      "formatted" : "<p>List of courses will be forthcoming.</p>"
+    },
+    "id" : "b720177a-da47-4234-bcf3-23cefbe517a4",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625246036278,
+      "createId" : "gribauda",
+      "updateTime" : 1625246036278,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : null,
+    "id" : "b072e055-ef3a-4c86-9955-ee1a48fad08a",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "0",
+      "createTime" : 1625246586546,
+      "createId" : "gribauda",
+      "updateTime" : 1625246586546,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : null,
+    "id" : "fa637789-8a43-46b5-a539-e992c99d4a0f",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+}, {
+  "service" : "RequirementService",
+  "method" : "createRequirement",
+  "parameters" : [ "kuali.requirement.type.descriptive", {
+    "attributes" : [ ],
+    "meta" : {
+      "versionInd" : "1",
+      "createTime" : 1625589485732,
+      "createId" : "gribauda",
+      "updateTime" : 1625589515911,
+      "updateId" : "gribauda"
+    },
+    "typeKey" : "kuali.requirement.type.descriptive",
+    "stateKey" : "kuali.requirement.state.active",
+    "name" : null,
+    "descr" : {
+      "plain" : "Program of Study available on Lynch website",
+      "formatted" : "<p>Program of Study available on Lynch website</p>"
+    },
+    "id" : "9b9da15f-f8f8-4987-ab73-393c16fa89b6",
+    "parentRequirementId" : null,
+    "shortTitle" : null,
+    "longTitle" : null,
+    "code" : null,
+    "learningObjectiveIds" : [ ],
+    "requisiteIds" : [ ],
+    "adminOrgIds" : [ ],
+    "resultOptionIds" : [ ],
+    "url" : null,
+    "type" : "kuali.requirement.type.descriptive",
+    "state" : "kuali.requirement.state.active"
+  } ]
+} ]
