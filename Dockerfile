@@ -4,6 +4,6 @@ WORKDIR /app
 ADD planning-app-0.1.1.jar /app/
 ADD ./*.json /app/
 
-EXPOSE 8080
+EXPOSE 10000
 
-ENTRYPOINT java -jar planning-app-0.1.1.jar --server.port=8080
+ENTRYPOINT java -jar planning-app-0.1.1.jar --server.port=10000
